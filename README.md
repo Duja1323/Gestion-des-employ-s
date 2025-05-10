@@ -42,7 +42,7 @@ Une application web moderne et intuitive pour la gestion des employés, dévelop
 
 1. Clonez le dépôt :
 ```bash
-git clone [url-du-repo]
+git clone https://github.com/Duja1323/Gestion-des-employ-s.git
 ```
 
 2. Importez la base de données :
