@@ -21,6 +21,8 @@ try {
     <meta name="robots" content="noindex, nofollow">
     <meta name="author" content="Votre Entreprise">
     <title>Gestion des Employés - Tableau de bord</title>
+    <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-..." crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
